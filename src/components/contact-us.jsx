@@ -111,7 +111,7 @@ function ContactUs() {
                 Our friendly team is here to help.
               </p>
               <p className="mt-2 text-blue-500 dark:text-blue-400">
-                care@mytutorstaion.com
+                customercare@mytutorstation.com
               </p>
             </div>
 
@@ -145,7 +145,7 @@ function ContactUs() {
                 Come say hello at our office.
               </p>
               <p className="mt-2 text-blue-500 dark:text-blue-400">
-                807 Bel Esprit Cir San Marcos, California 92069 US
+                3525 Brooke Street Houston, Texas 77092 US
               </p>
             </div>
           </div>
